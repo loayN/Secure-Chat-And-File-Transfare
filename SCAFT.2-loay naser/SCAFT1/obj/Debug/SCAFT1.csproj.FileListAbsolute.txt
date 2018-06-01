@@ -1,0 +1,16 @@
+C:\Users\S.Eng\Desktop\HW1-SCAFT-loay naser\SCAFT1 - Copy\SCAFT1\bin\Debug\SCAFT1.exe.config
+C:\Users\S.Eng\Desktop\HW1-SCAFT-loay naser\SCAFT1 - Copy\SCAFT1\bin\Debug\SCAFT1.exe.manifest
+C:\Users\S.Eng\Desktop\HW1-SCAFT-loay naser\SCAFT1 - Copy\SCAFT1\bin\Debug\SCAFT1.application
+C:\Users\S.Eng\Desktop\HW1-SCAFT-loay naser\SCAFT1 - Copy\SCAFT1\bin\Debug\SCAFT1.exe
+C:\Users\S.Eng\Desktop\HW1-SCAFT-loay naser\SCAFT1 - Copy\SCAFT1\bin\Debug\SCAFT1.pdb
+C:\Users\S.Eng\Desktop\HW1-SCAFT-loay naser\SCAFT1 - Copy\SCAFT1\obj\Debug\SCAFT1.SCAFT.resources
+C:\Users\S.Eng\Desktop\HW1-SCAFT-loay naser\SCAFT1 - Copy\SCAFT1\obj\Debug\SCAFT1.Properties.Resources.resources
+C:\Users\S.Eng\Desktop\HW1-SCAFT-loay naser\SCAFT1 - Copy\SCAFT1\obj\Debug\SCAFT1.csproj.GenerateResource.Cache
+C:\Users\S.Eng\Desktop\HW1-SCAFT-loay naser\SCAFT1 - Copy\SCAFT1\obj\Debug\SCAFT1.exe.manifest
+C:\Users\S.Eng\Desktop\HW1-SCAFT-loay naser\SCAFT1 - Copy\SCAFT1\obj\Debug\SCAFT1.application
+C:\Users\S.Eng\Desktop\HW1-SCAFT-loay naser\SCAFT1 - Copy\SCAFT1\obj\Debug\SCAFT1.exe
+C:\Users\S.Eng\Desktop\HW1-SCAFT-loay naser\SCAFT1 - Copy\SCAFT1\obj\Debug\SCAFT1.pdb
+C:\Users\S.Eng\Desktop\HW1-SCAFT-loay naser\SCAFT1 - Copy\SCAFT1\obj\Debug\SCAFT1.csprojResolveAssemblyReference.cache
+C:\Users\S.Eng\Desktop\HW1-SCAFT-loay naser\SCAFT.2-loay naser\SCAFT1\bin\Debug\SCAFT1.exe.config
+C:\Users\S.Eng\Desktop\HW1-SCAFT-loay naser\SCAFT.2-loay naser\SCAFT1\obj\Debug\SCAFT1.exe
+C:\Users\S.Eng\Desktop\HW1-SCAFT-loay naser\SCAFT.2-loay naser\SCAFT1\obj\Debug\SCAFT1.pdb
